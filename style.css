@@ -84,7 +84,7 @@ h1 span{
 /* Header-start */
 
 .header{
-    background: url(images/pexels-nao-triponez-129207.jpg);
+    background: url(./images/pexels-nao-triponez-129207.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -137,7 +137,7 @@ h1 span{
 .img {
     width: 500px;
     height: 500px;
-    background: url(Images/1.png);
+    background: url(./images/1.png);
     background-position: center;
     background-size: cover;
 }
@@ -246,22 +246,22 @@ h1 span{
 }
 
 .img-one{
-    background:url(images/1.png);
+    background:url(./images/1.png);
     background-position: center;
     background-size: cover;
 }
 .img-two{
-    background:url(images/4.png);
+    background:url(./images/4.png);
     background-position: center;
     background-size: cover;
 }
 .img-three{
-    background:url(images/3.png);
+    background:url(./images/3.png);
     background-position: center;
     background-size: cover;
 }
 .img-four{
-    background:url(images/2.png);
+    background:url(./images/2.png);
     background-position: center;
     background-size: cover;
 }

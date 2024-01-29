@@ -101,7 +101,7 @@ h1 span{
 
 .main-headings{
     position: absolute;
-    top: 21rem;
+    top: 7rem;
     font-size: 4rem;
     word-spacing: 10px;
    
@@ -109,7 +109,7 @@ h1 span{
 
 .primary-heading{
     position: absolute;
-    bottom: 15rem;
+    bottom: 4rem;
     font-size: 4rem;
     word-spacing: 10px;
     margin-bottom: -40px;
